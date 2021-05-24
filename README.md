@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarpial&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarpial" /> </p>
 
+<p align="left"> <img src="https://github.com/Tarunagg1/Tarunagg1/blob/main/code1.gif" alt="abubakarpial" /> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/AbuBakarPial?tab=repositories](https://github.com/AbuBakarPial?tab=repositories)
 
 - 📫 How to reach me **a.bakar.info@gmail.com**
+
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - ⚡ Fun fact **I watch cartoon because its my favourite.**
 
